@@ -11,9 +11,25 @@ I am a Computer Science student at IPB University with a growing focus on data a
 - Building a foundation in data analytics techniques including report writing, data mining, data merging, statistical analysis, and critical thinking.
 - Currently learning about reinforcement learning and its potential applications in personalized learning systems.
 
-## A Model to Classify Tweets About Presidential Elections into Asta Gatra Classes (for mor detail, click the project)
+## A Model to Classify Tweets About Presidential Elections into Asta Gatra Classes
+In the Big Data Challenge (BDC) Satria Data 2024, participants were challenged to classify issues discussed by authors in their tweets related to the 2024 Presidential Election. This classification was based on the Astagatra framework, which represents components of national resilience. The task involved categorizing tweets into eight classes:
 
-## A Forecasting Model Designed to Categorize Traffic Types Within Networks (for mor detail, click the project)
+Ideology: Fundamental values, principles, and worldviews guiding the nation and state.
+Politics: Government systems, policies, and political processes within the country.
+Economy: Economic management, financial resources, and efforts to create prosperity.
+Socio-Culture: Social values, cultural norms, and societal aspects influencing national unity and identity.
+Defense and Security: National defense and internal security against threats or disruptions.
+Natural Resources: Management and utilization of natural resources for development and national security.
+Geography: Location, physical conditions, and natural environment affecting life and policies.
+Demography: Population structure, growth, distribution, and dynamics influencing national policies and development.
+This competition required participants to analyze tweets and correctly classify them into one of these eight categories related to the nation's resilience factors.
+
+### Research Highlight
+- Worked with a dataset of 5,000 tweets categorized and 8 classes. Cleaned the data by removing slang words, stopwords, and special characters, and applied tokenization.
+- Developed a predictive model using IndoBERT for sequence classification. Configured the model with an optimizer and CrossEntropyLoss, and trained it using DataLoader for efficient batch processing.
+- Evaluated the model, achieving a balanced accuracy of 41% on the new dataset
+
+## A Forecasting Model Designed to Categorize Traffic Types Within Networks 
 
 This project develops a machine learning model to classify network traffic in real-time, enhancing cybersecurity for high-traffic websites. By analyzing various traffic patterns, the system aims to differentiate between legitimate user activities and potential threats. The model will assist cybersecurity teams in quickly identifying and responding to suspicious activities, thereby improving overall network integrity and security posture.
 
@@ -22,7 +38,6 @@ Key features:
 - Multi-class traffic classification
 - Anomaly detection
 - Scalable for high-volume data processing
-- 
 This solution addresses the critical need for proactive cybersecurity measures in the digital era, helping companies protect their networks against evolving cyber threats.
 
 ### Research Highlight
@@ -33,7 +48,12 @@ This solution addresses the critical need for proactive cybersecurity measures i
 - Conducted feature selection using Genetic Algorithm, which resulted in a reduced accuracy of 68%, indicating the need for further refinement
 
 ## Logistic Regression for Fraud Detection in Financial Loan Payments
-_(for mor detail, click the project)
+
+### Research Highlights
+- Used logistic regression to build a model for classifying the transaction. Logistic Regression effectively handled class imbalance and multicollinearity, outperforming complex models like LightGBM and FA-CNN with an average precision score of 0.8138 in detecting financial fraud.
+- The dataset alone contains nearly one million observations, with highly imbalanced classes (98.74% non-fraud vs 1.26% fraud).
+- Used Regularization techniques (L1/L2) helped manage multicollinearity, enhancing model stability.
+- Logistic Regression emerged as a robust and reliable model for financial fraud detection, particularly when combined with regularization to address data issues. Despite challenges like class imbalance and multicollinearity, it proved more effective than complex algorithms, making it an optimal solution for this problem.
 
 ## Analysis of Flood and Education Level Relationship in DKI Jakarta (for mor detail, click the project)
 
