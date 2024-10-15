@@ -61,9 +61,9 @@ Performance: Logistic regression often shows better average precision scores com
 - Used Regularization techniques (L1/L2) helped manage multicollinearity, enhancing model stability.
 - Logistic Regression emerged as a robust and reliable model for financial fraud detection, particularly when combined with regularization to address data issues. Despite challenges like class imbalance and multicollinearity, it proved more effective than complex algorithms, making it an optimal solution for this problem.
 
-## Analysis of Flood and Education Level Relationship in DKI Jakarta (for mor detail, click the project)
+## Analysis of Flood and Education Level Relationship in DKI Jakarta
 
-This project aims to develop a machine learning model to predict flood occurrences and their economic impact in Jakarta, Indonesia. Using historical data on rainfall patterns, urbanization metrics, and economic indicators, I create a robust predictive framework to Forecast flood likelihood and severity
+This project aims to develop a machine learning model to predict flood occurrences and their economic impact in Jakarta, Indonesia. Using historical data on rainfall patterns, urbanization metrics, and economic indicators, I create a robust predictive framework to Forecast flood likelihood and severity. 
 My analysis combines time series forecasting, geospatial data, and educational statistic  to provide actionable insights for city planners and policymakers. This project aims to provide valuable insights for policymakers and education authorities. By understanding the role of education in disaster resilience, we can propose targeted educational programs and awareness campaigns to improve Jakarta's overall flood preparedness and response capabilities.
 Key aspects of the project include:
 
