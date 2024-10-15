@@ -79,7 +79,7 @@ Key aspects of the project include:
 - Recommended strengthening educational initiatives to enhance environmental awareness, as higher education levels may influence future relationships between education and environment issue
 
   
-# The 
+# Building a Robust Skill Set in Data Science
 My involvement in data science competitions has provided me with essential knowledge and hands-on experience that are equipping me for a career in data analysis. This includes the ability to:  
 - Clean and structure data  
 - Identify patterns and insights  
