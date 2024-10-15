@@ -48,12 +48,13 @@ This solution addresses the critical need for proactive cybersecurity measures i
 
 ## Logistic Regression for Fraud Detection in Financial Loan Payments
 Fraud detection involves identifying user actions as fraudulent or not. In this context, fraud is defined as users who have borrowed financial products but have not made payments by the due date.
+
 Key Points:
-Role of Machine Learning: Machine learning is crucial in fraud detection. It helps in identifying patterns and predicting fraudulent activities.
-Logistic Regression: This is a machine learning model used for classification. It predicts the probability of a categorical dependent variable. Logistic regression is chosen because:
-Ease of Implementation: It is straightforward to apply.
-Interpretability: The results are easy to understand, which is vital in fraud detection to comprehend the relationship between predictors and the likelihood of fraud.
-Performance: Logistic regression often shows better average precision scores compared to some other algorithms.
+- Role of Machine Learning: Machine learning is crucial in fraud detection. It helps in identifying patterns and predicting fraudulent activities.
+- Logistic Regression: This is a machine learning model used for classification. It predicts the probability of a categorical dependent variable. Logistic regression is chosen because:
+- Ease of Implementation: It is straightforward to apply.
+- Interpretability: The results are easy to understand, which is vital in fraud detection to comprehend the relationship between predictors and the likelihood of fraud.
+- Performance: Logistic regression often shows better average precision scores compared to some other algorithms.
 
 ### Research Highlights
 - Used logistic regression to build a model for classifying the transaction. Logistic Regression effectively handled class imbalance and multicollinearity, outperforming complex models like LightGBM and FA-CNN with an average precision score of 0.8138 in detecting financial fraud.
