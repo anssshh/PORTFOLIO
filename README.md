@@ -11,6 +11,12 @@ I am a Computer Science student at IPB University with a growing focus on data a
 - Building a foundation in data analytics techniques including report writing, data mining, data merging, statistical analysis, and critical thinking.
 - Currently learning about reinforcement learning and its potential applications in personalized learning systems.
 
+## A Model to Classify Tweets About Presidential Elections into Asta Gatra Classes
+
+## A Forecasting Model Designed to Categorize Traffic Types Within Networks
+
+## Analysis of Flood and Education Level Relationship in DKI Jakarta
+
 My involvement in data science competitions has provided me with essential knowledge and hands-on experience that are equipping me for a career in data analysis. This includes the ability to:  
 - Clean and structure data  
 - Identify patterns and insights  
