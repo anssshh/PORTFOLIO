@@ -11,15 +11,24 @@ I am a Computer Science student at IPB University with a growing focus on data a
 - Building a foundation in data analytics techniques including report writing, data mining, data merging, statistical analysis, and critical thinking.
 - Currently learning about reinforcement learning and its potential applications in personalized learning systems.
 
-## A Model to Classify Tweets About Presidential Elections into Asta Gatra Classes
-- Utilized linear regression method to understand the relationship between flood and education in Jakarta in 2020 - 2021
-- Conducted a conclusion that there is no significant relationship between flood levels and education levels.
--   Recommended strengthening educational initiatives to enhance environmental awareness, as higher education levels may influence future relationships between education and environment issue
-## A Forecasting Model Designed to Categorize Traffic Types Within Networks
+## A Model to Classify Tweets About Presidential Elections into Asta Gatra Classes (for mor detail, click the project)
 
+## A Forecasting Model Designed to Categorize Traffic Types Within Networks (for mor detail, click the project)
+
+This project develops a machine learning model to classify network traffic in real-time, enhancing cybersecurity for high-traffic websites. By analyzing various traffic patterns, the system aims to differentiate between legitimate user activities and potential threats. The model will assist cybersecurity teams in quickly identifying and responding to suspicious activities, thereby improving overall network integrity and security posture.
+
+Key features:
+- Real-time traffic analysis
+- Multi-class traffic classification
+- Anomaly detection
+- Scalable for high-volume data processing
+
+This solution addresses the critical need for proactive cybersecurity measures in the digital era, helping companies protect their networks against evolving cyber threats.
 ## Logistic Regression for Fraud Detection in Financial Loan Payments
+_(for mor detail, click the project)
 
-## Analysis of Flood and Education Level Relationship in DKI Jakarta
+## Analysis of Flood and Education Level Relationship in DKI Jakarta (for mor detail, click the project)
+
 This project aims to develop a machine learning model to predict flood occurrences and their economic impact in Jakarta, Indonesia. Using historical data on rainfall patterns, urbanization metrics, and economic indicators, I create a robust predictive framework to Forecast flood likelihood and severity
 My analysis combines time series forecasting, geospatial data, and educational statistic  to provide actionable insights for city planners and policymakers. This project aims to provide valuable insights for policymakers and education authorities. By understanding the role of education in disaster resilience, we can propose targeted educational programs and awareness campaigns to improve Jakarta's overall flood preparedness and response capabilities.
 Key aspects of the project include:
@@ -29,8 +38,12 @@ Key aspects of the project include:
 - Predictive modeling: Developing machine learning models to forecast flood resilience based on educational and demographic factors.
 - Policy implications: Identifying potential interventions in education that could enhance community flood resilience.
 - Comparative analysis: Assessing how different levels of education (primary, secondary, tertiary) correlate with specific aspects of flood preparedness and response.
+### Research Highlights
+- Utilized linear regression method to understand the relationship between flood and education in Jakarta in 2020 - 2021
+- Conducted a conclusion that there is no significant relationship between flood levels and education levels.
+- Recommended strengthening educational initiatives to enhance environmental awareness, as higher education levels may influence future relationships between education and environment issue
 
-
+  
 # The 
 My involvement in data science competitions has provided me with essential knowledge and hands-on experience that are equipping me for a career in data analysis. This includes the ability to:  
 - Clean and structure data  
