@@ -15,6 +15,8 @@ I am a Computer Science student at IPB University with a growing focus on data a
 
 ## A Forecasting Model Designed to Categorize Traffic Types Within Networks
 
+## Logistic Regression for Fraud Detection in Financial Loan Payments
+
 ## Analysis of Flood and Education Level Relationship in DKI Jakarta
 
 My involvement in data science competitions has provided me with essential knowledge and hands-on experience that are equipping me for a career in data analysis. This includes the ability to:  
