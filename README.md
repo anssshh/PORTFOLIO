@@ -22,8 +22,16 @@ Key features:
 - Multi-class traffic classification
 - Anomaly detection
 - Scalable for high-volume data processing
-
+- 
 This solution addresses the critical need for proactive cybersecurity measures in the digital era, helping companies protect their networks against evolving cyber threats.
+
+### Research Highlight
+
+- Build and develop a predictive model to classify various types of network traffic into 6 classes. from background until bruteforce-XML.
+- Developed and trained a predictive model using a train dataset of 416,473 entries and evaluated it on a test dataset of 138,805 entries, implementing and fine-tuning an MLPClassifier, ReLU activation, and optimizer
+- Achieved 73.5% accuracy in predicting the six traffic categories using the full feature set.
+- Conducted feature selection using Genetic Algorithm, which resulted in a reduced accuracy of 68%, indicating the need for further refinement
+
 ## Logistic Regression for Fraud Detection in Financial Loan Payments
 _(for mor detail, click the project)
 
